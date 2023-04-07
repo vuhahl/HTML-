@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--suppress ALL -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<title> The Literary Lounge</title> Place Logo here-->
+</head>
+
+<body>
+<nav> <!--Other webpages-->
+    <div class="logo">The Literary Lounge</div>
+    <div class="nav-pages">
+        <ul>
+            <li><a href="homepage.html">Home</a></li>
+            <li><a href="about.html">About Me!</a></li>
+            <li><a href="fiction.html">Fiction</a></li>
+            <li><a href="nonfiction.html">Nonfiction</a></li>
+            <li><a href="recs.html">Recommendations?</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="webname">
+<h1> The Literary Lounge </h1>
+</div>
+
+<main> <!-- for main body of website, eg book of the month -->
+</main>
+
+<footer> <!footer content>
+<div id="copyright">
+		<p> &copy; Copyright 2023. All rights Reserved.<br>
+</div>
+</footer>
+
+</body>
+</html>
